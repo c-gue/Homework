@@ -10,3 +10,8 @@ if course in room and course in instructor and course in time:
     print(time[course])
 else:
     print("This course number is not in this registry.")
+
+
+
+#github link
+#https://github.com/c-gue/Homework.git
